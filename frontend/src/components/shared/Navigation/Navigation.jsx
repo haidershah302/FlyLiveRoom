@@ -32,7 +32,6 @@ const Navigation = () => {
     return (
         <nav className={`${styles.navbar} container`}>
             <Link style={brandStyle} to="/">
-                {/*<img src="/images/logo.png" alt="logo" />*/}
                 <span style={logoText}>FlyLive</span>
             </Link>
             {isAuth && (
