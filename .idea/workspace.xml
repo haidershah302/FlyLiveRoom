@@ -7,12 +7,7 @@
     <list default="true" id="870209da-adec-4ac2-b2da-03105ed593e3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend/.env.dev" beforeDir="false" afterPath="$PROJECT_DIR$/backend/.env.dev" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/controllers/auth-controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/controllers/auth-controller.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deploy/default.conf" beforeDir="false" afterPath="$PROJECT_DIR$/deploy/default.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.prod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.prod.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.env" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/components/shared/Card/Card.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/shared/Card/Card.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/shared/Navigation/Navigation.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/shared/Navigation/Navigation.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/src/pages/Home/Home.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/pages/Home/Home.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +20,10 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/backend/package.json" />
+    <dismissed value="$PROJECT_DIR$/frontend/package.json" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\xampp\php\php.exe" />
   <component name="ProjectColorInfo">{
@@ -69,7 +68,8 @@
       <workItem from="1629308910335" duration="2000" />
       <workItem from="1727944379069" duration="1036000" />
       <workItem from="1727945751724" duration="3075000" />
-      <workItem from="1727962702741" duration="916000" />
+      <workItem from="1727962702741" duration="1043000" />
+      <workItem from="1727984201696" duration="3007000" />
     </task>
     <servers />
   </component>
